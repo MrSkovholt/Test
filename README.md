@@ -2,4 +2,4 @@
 Test
 
 Nå har jeg renamet jovialt-gresskar til new-jovialt-gresskar og tester igjen.
-Fiksa syntaksfeil i new-jovialt gresskar
+Tester om jeg ikke får forskjell fordi jeg bare får EN output fra remote action
