@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: jovialt-gresskar/hello-world-action@v1
+        uses: jovialt-gresskar/hello-world-javascript-action@v1 
         with:
           who-to-greet: 'MrSkovholt'
       # Use the output from the `hello` step
