@@ -6,3 +6,4 @@ Tester om jeg ikke får forskjell fordi jeg bare får EN output fra remote actio
 Må jeg kanskje vente litt så den puller riktig?
 
 Brrrrrrrrr hello hello
+Time -> Hello hello hello
