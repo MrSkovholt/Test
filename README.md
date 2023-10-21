@@ -7,3 +7,5 @@ Må jeg kanskje vente litt så den puller riktig?
 
 Brrrrrrrrr hello hello
 Time -> Hello hello hello
+
+v2 gir forventet output initielt. Nå prøver jeg å endre den, og se om endringen kommer hit også
